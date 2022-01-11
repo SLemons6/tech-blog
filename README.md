@@ -15,7 +15,7 @@ The Tech Blog is a web app that uses express.js, handlebars, MySQL2 and Sequeliz
 
 ## Website: 
 
-https://slemons6.github.io/tech-blog
+https://slemons6techblog.herokuapp.com/
 
 <img src="./assets/images/screenshot.jpg" alt="Screenshot of tech blog website" />
 
